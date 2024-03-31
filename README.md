@@ -3,8 +3,6 @@ calculator project for Home Page PathVariable, RequestParam
 
 **2) Spring Boot Controller URL Dispatcher**
 
-https://www.youtube.com/watch?v=x5wTa0f6IHY
-https://github.com/anthoniraj/springbooturls
 Tutorial for 1) URL with Path variable 2) URL with Parameters
 1)	Open Spring Tool  Suite 4
 2)	Create Spring Starter project called Calculator
